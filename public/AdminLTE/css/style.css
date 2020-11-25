@@ -1,0 +1,12 @@
+.world_money{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.clock{
+    text-align: right;
+    margin-right: 20px;
+}
+#pannel tr td{
+    text-align: center;
+}

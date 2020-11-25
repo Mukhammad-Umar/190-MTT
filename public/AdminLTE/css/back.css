@@ -1,0 +1,63 @@
+﻿/* table-pagination */
+table {
+width: 100%;	
+}
+
+thead {
+text-align: center;
+font-weight: bolder;
+border-bottom: 1px solid black;
+}
+
+td {
+padding: 5px;	
+}
+
+.widthbutton {
+width: 5%;
+}
+/* table-pagination */
+
+
+.center {
+text-align: center;	
+}
+
+.red {
+color: MediumVioletRed;	
+}
+
+.bolder {
+font-weight: bolder;	
+}
+
+.gold {
+color: gold;	
+}
+
+.blue {
+color: steelblue;	
+}
+
+.sienna {
+color: peru;	
+}
+
+.none {
+display: none;	
+}
+
+.dropdown-menu-div {
+font-size: 15px;
+}
+
+.input-size {font-size: 15px;}
+
+.list {
+font-size: 13px;	
+}
+
+.margin {
+margin: 20px;
+}
+
