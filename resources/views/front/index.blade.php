@@ -19,7 +19,7 @@
             </section>
           @endforeach
           <span class="link-to">
-            <p> Kop`roq yangiliklar uchun &nbsp;<a href="https://mdo.uz/uz" target="_blank"> Vazirlik saytiga o`ting -></a></p>
+            <p> Kop`roq yangiliklar uchun &nbsp;<a href="http://mdo.uz/" target="_blank"> Vazirlik saytiga o`ting -></a></p>
           </span>
       </div>
     </div>
